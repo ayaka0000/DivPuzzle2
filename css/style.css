@@ -53,7 +53,7 @@ header{
 .right_topR{
   width: 40%;
   height: 150px;
-  float: right;
+  float: left;
   background: #ff9e6b;
 }
 
